@@ -1,0 +1,17 @@
+body{
+    margin:50px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png")
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+}
+
+.post_button{
+
+    align-items: center;
+    text-align: right;
+}
